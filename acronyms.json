@@ -10,5 +10,41 @@
   {
     "acronym": "LMAO",
     "fullForm": "Laughing My Ass Off"
+  },
+  {
+    "acronym": "FIFY",
+    "fullForm": "Fixed It For Ya"
+  },
+  {
+    "acronym": "A2A",
+    "fullForm": "Ask To Answer"
+  },
+  {
+    "acronym": "DRY",
+    "fullForm": "Don't Repeat Yourself"
+  },
+  {
+    "acronym": "CRUD",
+    "fullForm": "Create Read Update Delete"
+  },
+  {
+    "acronym": "LOL",
+    "fullForm": "Laughing Out Loud"
+  },
+  {
+    "acronym": "ROFL",
+    "fullForm": "Rolling On Floor Laughing"
+  },
+  {
+    "acronym": "FYA",
+    "fullForm": "For Your Action"
+  },
+  {
+    "acronym": "FYA",
+    "fullForm": "For Your Amusement"
+  },
+  {
+    "acronym": "PJ",
+    "fullForm": "Poor Joke"
   }
 ]
