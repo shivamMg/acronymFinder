@@ -1,50 +1,32 @@
 [
-  {
-    "acronym": "IMHO",
-    "fullForm": "In My Honest Opinion"
-  },
-  {
-    "acronym": "AFAIK",
-    "fullForm": "As Far As I Know"
-  },
-  {
-    "acronym": "LMAO",
-    "fullForm": "Laughing My Ass Off"
-  },
-  {
-    "acronym": "FIFY",
-    "fullForm": "Fixed It For Ya"
-  },
-  {
-    "acronym": "A2A",
-    "fullForm": "Ask To Answer"
-  },
-  {
-    "acronym": "DRY",
-    "fullForm": "Don't Repeat Yourself"
-  },
-  {
-    "acronym": "CRUD",
-    "fullForm": "Create Read Update Delete"
-  },
-  {
-    "acronym": "LOL",
-    "fullForm": "Laughing Out Loud"
-  },
-  {
-    "acronym": "ROFL",
-    "fullForm": "Rolling On Floor Laughing"
-  },
-  {
-    "acronym": "FYA",
-    "fullForm": "For Your Action"
-  },
-  {
-    "acronym": "FYA",
-    "fullForm": "For Your Amusement"
-  },
-  {
-    "acronym": "PJ",
-    "fullForm": "Poor Joke"
-  }
+  {"acronym": "IMHO", "fullForm": "In My Honest Opinion"},
+  {"acronym": "AFAIK", "fullForm": "As Far As I Know"},
+  {"acronym": "LMAO", "fullForm": "Laughing My Ass Off"},
+  {"acronym": "FIFY", "fullForm": "Fixed It For Ya"},
+  {"acronym": "A2A", "fullForm": "Ask To Answer"},
+  {"acronym": "DRY", "fullForm": "Don't Repeat Yourself"},
+  {"acronym": "LOL", "fullForm": "Laughing Out Loud"},
+  {"acronym": "ROFL", "fullForm": "Rolling On Floor Laughing"},
+  {"acronym": "FYA", "fullForm": "For Your Action"},
+  {"acronym": "FYA", "fullForm": "For Your Amusement"},
+  {"acronym": "PJ", "fullForm": "Poor Joke"},
+  {"acronym": "AFK", "fullForm": "Away From Keyboard"},
+  {"acronym": "TGIF", "fullForm": "Thank God It's Friday"},
+  {"acronym": "TIFU", "fullForm": "Today I F**ked Up"},
+  {"acronym": "TIL", "fullForm": "Today I Learned"},
+  {"acronym": "PFA", "fullForm": "Please Find Attachment"},
+  {"acronym": "LMFAO", "fullForm": "Laughing My F**king Ass Off"},
+  {"acronym": "AKA", "fullForm": "Also Known As"},
+  {"acronym": "OMG", "fullForm": "Oh My God"},
+  {"acronym": "DND", "fullForm": "Do Not Disturb"},
+  {"acronym": "JIT", "fullForm": "Just In Time"},
+  {"acronym": "WTG", "fullForm": "Way To Go"},
+  {"acronym": "AEAP", "fullForm": "As Early As Possible"},
+  {"acronym": "F2F", "fullForm": "Face To Face"},
+  {"acronym": "SWAK", "fullForm": "Sealed With A Kiss"},
+  {"acronym": "MYOFB", "fullForm": "Mind Your Own F**king Business"},
+  {"acronym": "LYL", "fullForm": "Love You Lots"},
+  {"acronym": "ASAP", "fullForm": "As Soon As Possible"},
+  {"acronym": "CC", "fullForm": "Carbon Copy"},
+  {"acronym": "BCC", "fullForm": "Blind Carbon Copy"},
 ]
