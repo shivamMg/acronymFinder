@@ -28,5 +28,15 @@
   {"acronym": "LYL", "fullForm": "Love You Lots"},
   {"acronym": "ASAP", "fullForm": "As Soon As Possible"},
   {"acronym": "CC", "fullForm": "Carbon Copy"},
-  {"acronym": "BCC", "fullForm": "Blind Carbon Copy"}
+  {"acronym": "BCC", "fullForm": "Blind Carbon Copy"},
+  {"acronym": "PTO", "fullForm": "Paid Time Off"},
+  {"acronym": "MRW", "fullForm": "My Reaction When"},
+  {"acronym": "BS", "fullForm": "Bull Shit"},
+  {"acronym": "NSFL", "fullForm": "Not Safe For Life"},
+  {"acronym": "NSFW", "fullForm": "Not Safe For Work"},
+  {"acronym": "WTF", "fullForm": "What The F**k"},
+  {"acronym": "WTH", "fullForm": "What The Hell"},
+  {"acronym": "FTFY", "fullForm": "Fixed That For Ya"},
+  {"acronym": "TL;DR", "fullForm": "Too Long; Didn't Read"},
+  {"acronym": "FYI", "fullForm": "For Your Information"}
 ]
