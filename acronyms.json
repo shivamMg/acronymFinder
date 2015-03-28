@@ -38,5 +38,11 @@
   {"acronym": "WTH", "fullForm": "What The Hell"},
   {"acronym": "FTFY", "fullForm": "Fixed That For Ya"},
   {"acronym": "TL;DR", "fullForm": "Too Long; Didn't Read"},
-  {"acronym": "FYI", "fullForm": "For Your Information"}
+  {"acronym": "FYI", "fullForm": "For Your Information"},
+  {"acronym": "DTF", "fullForm": "Down To F**k"},
+  {"acronym": "FU", "fullForm": "F**ked Up"},
+  {"acronym": "SOB", "fullForm": "Son Of a Bitch"},
+  {"acronym": "BTW", "fullForm": "By The Way"},
+  {"acronym": "MYOB", "fullForm": "Mind Your Own Business"},
+  {"acronym": "KMA", "fullForm": "Kiss My Ass"}
 ]
