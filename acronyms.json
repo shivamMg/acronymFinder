@@ -44,5 +44,18 @@
   {"acronym": "SOB", "fullForm": "Son Of a Bitch"},
   {"acronym": "BTW", "fullForm": "By The Way"},
   {"acronym": "MYOB", "fullForm": "Mind Your Own Business"},
-  {"acronym": "KMA", "fullForm": "Kiss My Ass"}
+  {"acronym": "KMA", "fullForm": "Kiss My Ass"},
+  {"acronym": "JFC", "fullForm": "Jesus F**king Christ"},
+  {"acronym": "GTFO", "fullForm": "Get The F**k Off"},
+  {"acronym": "JK", "fullForm": "Just Kidding"},
+  {"acronym": "PM", "fullForm": "Private Message"},
+  {"acronym": "FTL", "fullForm": "For The Loss"},
+  {"acronym": "FTW", "fullForm": "For The Win"},
+  {"acronym": "LPT", "fullForm": "Life Pro Tip(s)"},
+  {"acronym": "ELI5", "fullForm": "Explain Like I'm 5"},
+  {"acronym": "IDGAF", "fullForm": "I Don't Give A F**k"},
+  {"acronym": "BRB" , "fullForm": "Be Right Back"},
+  {"acronym": "MFW", "fullForm": "My Face When"},
+  {"acronym": "ITT", "fullForm": "I Think That"},
+  {"acronym": "DIY", "fullForm": "Do It Yourself"}
 ]
