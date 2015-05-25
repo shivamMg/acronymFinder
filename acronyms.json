@@ -57,5 +57,17 @@
   {"acronym": "BRB" , "fullForm": "Be Right Back"},
   {"acronym": "MFW", "fullForm": "My Face When"},
   {"acronym": "ITT", "fullForm": "I Think That"},
-  {"acronym": "DIY", "fullForm": "Do It Yourself"}
+  {"acronym": "DIY", "fullForm": "Do It Yourself"},
+  {"acronym": "OP", "fullForm": "Original Poster"},
+  {"acronym": "AMA", "fullForm": "Ask Me Anything"},
+  {"acronym": "OC", "fullForm": "Original Content"},
+  {"acronym": "IIRC", "fullForm": "If I Recall Correctly"},
+  {"acronym": "ITT", "fullForm": "In This Thread"},
+  {"acronym": "DAE", "fullForm": "Does Anyone/Anybody Else"},
+  {"acronym": "IANAL", "fullForm": "I Am Not A Lawyer"},
+  {"acronym": "IRL", "fullForm": "In Real Life"},
+  {"acronym": "YTMND", "fullForm": "You are The Man Now Dog"},
+  {"acronym": "SMH", "fullForm": "Shaking My Head"},
+  {"acronym": "FSM", "fullForm": "Flying Spaghetti Monster"},
+  {"acronym": "DIAF", "fullForm": "Die In A Fire"}
 ]
